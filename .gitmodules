@@ -8,3 +8,8 @@
 	url = https://github.com/pfh/langevitour
 	shallow = true
 	registered = true
+[submodule "topconfects"]
+	path = topconfects
+	url = https://github.com/pfh/topconfects
+	shallow = true
+	registered = true
