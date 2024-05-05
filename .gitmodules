@@ -5,6 +5,3 @@
 [submodule "langevitour"]
 	path = langevitour
 	url = https://github.com/pfh/langevitour
-[submodule "topconfects"]
-	path = topconfects
-	url = https://github.com/pfh/topconfects
